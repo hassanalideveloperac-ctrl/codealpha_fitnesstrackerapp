@@ -1,18 +1,49 @@
-# fitnesstracker
+# 🏋️ Fitness Tracker App
 
-A new Flutter project.
+## 📋 Overview
+A professional fitness tracking application built with Flutter for the CodeAlpha Internship program. Track your daily workouts, monitor calories burned, and visualize your fitness progress with an intuitive and beautiful interface.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+### 📊 Dashboard
+- **Daily Progress Cards**: View calories burned, steps taken, and workouts logged for today
+- **Weekly Summary**: Track weekly progress with visual statistics
+- **Today's Workouts**: Quick view of all workouts logged today
+- **Real-time Updates**: Data updates instantly as you log new workouts
 
-A few resources to get you started if this is your first Flutter project:
+### 💪 Workout Management
+- **Add Workout**: Log exercises with type, duration, calories, and steps
+- **Edit Workout**: Modify existing workout entries
+- **Delete Workout**: Remove unwanted workout records
+- **Clear All**: Reset all workout history
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 📈 Tracking Features
+- **Calories Tracking**: Monitor calories burned daily and weekly
+- **Steps Tracking**: Track your steps count for each workout
+- **Duration Tracking**: Log workout duration in minutes
+- **Date Tracking**: Auto-save workout dates for history
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# codealpha_fitnesstrackerapp" 
+### 🎨 User Interface
+- **Gradient Colors**: Modern purple and blue gradients
+- **Smooth Animations**: Fade and scale transitions
+- **Responsive Design**: Works on all screen sizes
+- **Material Design 3**: Latest Flutter design guidelines
+- **Intuitive Navigation**: Easy-to-use interface
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Frontend Framework |
+| Provider | State Management |
+| SharedPreferences | Local Data Storage |
+| Material Design 3 | UI Components |
+| Flutter Launcher Icons | Custom App Icon |
+
+## 📲 Installation
+
+### Prerequisites
+- Flutter SDK (3.0.0 or higher)
+- Android Studio / VS Code
+- Android Emulator / Physical Device / Chrome Browser
+
